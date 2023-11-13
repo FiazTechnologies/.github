@@ -1,4 +1,4 @@
-# Welcome to Fiaz (Futuristic Innovations and Advancements Zone) 🚀
+# Welcome to Fiaz (Futuristic Innovations and Advancements Zone)
 
 ## About Us 🌐
 
