@@ -1,8 +1,8 @@
-# Welcome to Fiaz (Futuristic Innovations and Advancements Zone)
+# Welcome to Fiaz.dev
 
 ## About Us 🌐
 
-Fiaz (Futuristic Innovations and Advancements Zone) is a dynamic platform dedicated to pioneering innovations and advancements. We are passionate about pushing the boundaries of technology and fostering a community of forward-thinkers.
+Fiaz.dev is a dynamic platform dedicated to pioneering innovations and advancements. We are passionate about pushing the boundaries of technology and fostering a community of forward-thinkers.
 
 ## Mission 🚀
 
