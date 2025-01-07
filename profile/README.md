@@ -2,31 +2,11 @@
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
 <div align="center">
   <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="1.75%" align="left" alt="flame1"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hello+There!+Welcome to Fiaz.dev" alt="Hello There! Welcome to Fiaz.dev animated typed out" width="90%" align="middle"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hello+There!+Welcome to the Community!" alt="Hello There! Welcome to the Community animated typed out" width="90%" align="middle"/>
   <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="1.75%" align="right" alt="flame2"/>
 </div>
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
 
-
-## About Us 🌐
-
-Fiaz.dev is a dynamic platform dedicated to pioneering innovations and advancements. We are passionate about pushing the boundaries of technology and fostering a community of forward-thinkers.
-
-## Mission 🚀
-
-Our mission is to lead the way in technological breakthroughs, creating a space where creativity flourishes and futuristic ideas become reality. At fiaz, we aim to drive innovation that positively impacts the future.
-
-## Key Features 💡
-
-- **Innovation Hub:** Explore a hub of groundbreaking projects and ideas that push the limits of what's possible.
-- **Collaborative Community:** Join our collaborative community of innovators, engineers, and visionaries who are shaping the future.
-- **Open Source Advocacy:** We are strong advocates of open-source principles, contributing to the global tech community and sharing our discoveries.
-
-## How to Get Involved 🚀
-
-- Explore our [Projects](https://github.com/orgs/fiaz-dev/projects?query=is%3Aopen) to find exciting opportunities for collaboration.
-- Join our [Community Forum](https://github.com/orgs/fiaz-dev/discussions) to connect with like-minded individuals, share your ideas, and learn from others.
-- Follow us on [GitHub](https://github.com/fiaz-dev) for updates, announcements, and glimpses into the future.
 
 ## Community Guidelines 🌟
 
@@ -56,7 +36,7 @@ Please adhere to the following code standards:
 
 ### Report Bugs
 
-If you encounter a bug or issue, please create a detailed [GitHub Issue](https://github.com/fiaz-dev/issues/new) with the following information:
+If you encounter a bug or issue, please create a detailed GitHub Issue with the following information:
 
 - Description of the issue.
 - Steps to reproduce.
@@ -65,7 +45,7 @@ If you encounter a bug or issue, please create a detailed [GitHub Issue](https:/
 
 ### Feature Requests
 
-We encourage you to suggest new features or improvements. Create a [GitHub Issue](https://github.com/fiaz-dev/issues/new) with your ideas and a clear description of the proposed feature.
+We encourage you to suggest new features or improvements. Create a GitHub Issue with your ideas and a clear description of the proposed feature.
 
 ### Community Guidelines
 
@@ -85,4 +65,4 @@ See the `LICENSE.md` for the following repository or project for more details.
 
 ---
 
-Thank you for contributing to Fiaz! Your involvement is key to shaping the future of innovative advancements. 🌟 Explore and collaborate with us on our awesome projects! 🚀
+Thank you for contributing! Your involvement is key to shaping the future of innovative advancements. 🌟 Explore and collaborate with us on our awesome projects! 🚀
