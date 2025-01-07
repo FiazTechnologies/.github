@@ -14,7 +14,7 @@ Please review our [Code of Conduct](./CODE_OF_CONDUCT.md) to understand the valu
 
 ## Contributing 🙌
 
-We welcome contributions from the community! To contribute to Fiaz, please follow these guidelines:
+We welcome contributions from the community! To contribute to our open-source projects, please follow these guidelines:
 
 ### How to Contribute
 
@@ -45,7 +45,7 @@ If you encounter a bug or issue, please create a detailed GitHub Issue with the 
 
 ### Feature Requests
 
-We encourage you to suggest new features or improvements. Create a GitHub Issue with your ideas and a clear description of the proposed feature.
+We'd like to encourage you to suggest new features or improvements if you like. Create a GitHub Issue with your ideas and clearly describe the proposed feature.
 
 ### Community Guidelines
 
@@ -53,7 +53,7 @@ Review and abide by our [Code of Conduct](./CODE_OF_CONDUCT.md). Be respectful a
 
 ## Support 🤝
 
-For questions, concerns, or assistance, feel free to reach out to us at [contact email](mailto:contactus@fiaz.dev).
+If you have any questions, or concerns, or assistance, feel free to contact us at [contact email](mailto:contactus@fiaz.dev).
 
 ## Contributors 🎉
 
